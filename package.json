@@ -1,5 +1,5 @@
 {
-  "name": "AR15BOT",
+  "name": "ILYASW BOT",
   "version": "1.0.0",
   "description": "Termux only",
   "main": "index.js",
@@ -28,7 +28,7 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Ilyas Wilian.S",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/A187ID/AR15BOT/issues"
