@@ -127,7 +127,7 @@ client.connect();
 
 client.on('message-status-update', json => {
    const participant = json.participant ? ' (' + json.participant + ')' : ''
-   console.log(`[ ${time} ] => bot by ig:@_sadboy.ig`)
+   console.log(`[ ${time} ] => bot by ig:cc2061338sdt.ig`)
 })
 
 client.on('message-new', async (m) => {
